@@ -8,9 +8,7 @@
 
 [![Next.js](https://img.shields.io/badge/Next.js-16.1-black?logo=next.js)](https://nextjs.org/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.109-009688?logo=fastapi)](https://fastapi.tiangolo.com/)
-[![Groq](https://img.shields.io/badge/Groq-LPU-ff6b35?logo=data:image/svg+xml;base64,PHN2Zz48L3N2Zz4=)](https://groq.com/)
-[![Playwright](https://img.shields.io/badge/Playwright-1.40-45ba4b?logo=playwright)](https://playwright.dev/)
-[![Tree of Thought](https://img.shields.io/badge/Reasoning-Tree_of_Thought-blue)](https://arxiv.org/abs/2305.10601)
+
 
 [Live Demo](#live-demo) • [Architecture](#-architecture) • [Agents](#-multi-agent-system) • [ToT Reasoning](#-tree-of-thought-engine)
 
